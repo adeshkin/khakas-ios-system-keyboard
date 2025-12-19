@@ -88,17 +88,18 @@ iOS:
 longpress: !include tyv-longpress.yaml
 
 keyNames:
-  space: ажык
-  return: дедир
+  space: Ажык
+  return: Киирер
   return-alts:
-    search: дилээр
-    go: че
-    send: чорудар
-    join: коштунар
-    continue: улаштыр
-    done: чаа
-    next: дараазында
-    route: чорук изи
-  emergency: онза байдал
-  undo: эгидер
-  redo: катаптаар
+    search: Дилээр
+    go: Че
+    send: Чорудар
+    join: Коштунар
+    continue: Улаштыр
+    done: Чаа
+    next: Дараазында
+    route: Чоруур
+  emergency: SOS
+  cancel: Ойталаар
+  undo: Эгидер
+  redo: Катаптаар
