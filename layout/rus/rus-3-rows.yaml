@@ -4,6 +4,7 @@ displayNames:
   tyv: Орус
 
 decimal: ','
+ABC: 'АБВ'
 
 iOS:
   primary:
