@@ -4,6 +4,8 @@ displayNames:
   xdq: Хайдаҡӏла
 
 decimal: ','
+ABC: 'ҠҒҲ'
+abc: 'ҡғҳ'
 
 iOS:
   primary:
@@ -96,7 +98,7 @@ keyNames:
     send: Беса
     join: Цан биче
     continue: Берҡҡа
-    done: Би
+    done: Барил
     next: Илев
     route: Биҡан
   emergency: SOS
