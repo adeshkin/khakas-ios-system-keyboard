@@ -90,18 +90,18 @@ iOS:
 longpress: !include rus-longpress.yaml
 
 keyNames:
-  space: Пробел
-  return: Ввод
+  space: Ара # Пробел
+  return: Кир # Ввод
   return-alts:
-    search: Найти
-    go: Перейти
-    send: Отправить
-    join: Подкл.
-    continue: Продолжить
-    done: Готово
-    next: Далее
-    route: Маршрут
+    search: Тап # Найти
+    go: Пар # Перейти
+    send: Ыс # Отправить
+    join: Хозыл # Подкл.
+    continue: Узарат # Продолжить
+    done: Тимде # Готово
+    next: Пазағы # Далее
+    route: Чол # Маршрут
   emergency: SOS
-  cancel: Отменить
-  undo: Не применять
-  redo: Повторить
+  cancel: Тохтат # Отменить
+  undo: Нандыр # Не применять
+  redo: Айландыр # Повторить
